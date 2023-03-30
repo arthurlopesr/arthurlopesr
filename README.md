@@ -1,13 +1,12 @@
-## Arthur Lopes 😃
-### Sobre Mim 😎
----
-* Minha experiencia com softweres começou em 2018 ao entrar em um time de Suporte Técnico. Neste local, aprendi sobre processos gerenciais, como, financeiro, RH, DP, estoque, faturamento, entre outros módulos que um ERP oferece. Em 2020, iniciei um novo projeto como Software Tester, onde aprendi sobre automações, testes unitários, code review e software quality. Atualmente trabalho como software analyst desempenhando funções com Software prototyping, modelegem de banco de dados, documentação de software.
----
+## Hi, I'm Arthur Lopes
 
-Loading…
+<hr>
 
-█▒▒▒▒▒▒▒▒▒
-Junior Front End Dev.
+- 🔥 Junior Front End Developer
+- 🔭 I’m currently working at [TouchComp](https://touchcomp.com.br/)
+
+---  
+
 
 <div style="display: flex">
 		<div>
@@ -20,7 +19,7 @@ Junior Front End Dev.
 
 ---  
 
-  <a href="https://github.com/arthurlopes12">
+  <a href="https://github.com/arthurlopesr">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthulopes12&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 
