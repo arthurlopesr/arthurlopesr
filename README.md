@@ -20,7 +20,7 @@
 ---  
 
   <a href="https://github.com/arthurlopesr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthulopes12&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurlopesr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 
 ### Você me encontra em:
