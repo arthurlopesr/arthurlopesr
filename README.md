@@ -18,8 +18,6 @@
 		</div>
 
 ----  
-
-##
        
 <div>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=arthurlopesr&label=Profile%20views&color=e6333f&style=flat" alt="arthurlopesr" /> </p>
