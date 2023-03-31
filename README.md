@@ -19,9 +19,14 @@
 
 ----  
 
-  <a href="https://github.com/arthurlopesr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurlopesr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+##
+       
+<div>
+<a href="https://github.com/arthurlopesr">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=arthurlopesr&show_icons=true&theme=radical&locale=en&layout=compact" alt="italomedici" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurlopesr&show_icons=true&theme=radical&border_radius=10&locale=en&count_private=true&include_all_commits=true" alt="italomedici" />
 </div>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=arthurlopesr&label=Profile%20views&color=e6333f&style=flat" alt="italomedici" /> </p>
 
 ### Você me encontra em:
 
