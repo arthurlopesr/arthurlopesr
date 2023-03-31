@@ -23,10 +23,10 @@
        
 <div>
 <a href="https://github.com/arthurlopesr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=arthurlopesr&show_icons=true&theme=merko&locale=en&layout=compact" alt="italomedici" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurlopesr&show_icons=true&theme=merko&border_radius=10&locale=en&count_private=true&include_all_commits=true" alt="italomedici" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=arthurlopesr&show_icons=true&theme=dracula&locale=en&layout=compact" alt="italomedici" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurlopesr&show_icons=true&theme=dracula&border_radius=10&locale=en&count_private=true&include_all_commits=true" alt="arthurlopesr" />
 </div>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=arthurlopesr&label=Profile%20views&color=e6333f&style=flat" alt="italomedici" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=arthurlopesr&label=Profile%20views&color=e6333f&style=flat" alt="arthurlopesr" /> </p>
 
 ### Você me encontra em:
 
