@@ -1,6 +1,5 @@
 ## Hi, I'm Arthur Lopes
 
-<hr>
 
 - 🔥 Junior Front End Developer
 - 🔭 I’m currently working at [TouchComp](https://touchcomp.com.br/)
