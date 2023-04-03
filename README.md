@@ -1,7 +1,7 @@
 ## Hi, I'm Arthur Lopes
 
 
-- 🔥 Junior Front End Developer
+- 🔥 Front End Developer
 - 🔭 I’m currently working at [TouchComp](https://touchcomp.com.br/)
 
 ---  
@@ -28,10 +28,12 @@
 
 ### Você me encontra em:
 
-<div> 
-  <a href="https://www.instagram.com/arthur_lopesr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:arthurlopr12@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/arthur-lopes-ab02b9236/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<div>
+<a href="https://github.com/arthurlopesr">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=arthurlopesr&show_icons=true&theme=radical&locale=en&layout=compact" alt="arthurlopesr" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurlopesr&show_icons=true&theme=radical&border_radius=10&locale=en&count_private=true&include_all_commits=true" alt="arthurlopesr" />
+</div>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=arthurlopesr&label=Profile%20views&color=e6333f&style=flat" alt="arthurlopesr" /> </p>
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
