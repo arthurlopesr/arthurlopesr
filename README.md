@@ -17,6 +17,11 @@
 		</div>
 
 ----  
+### Você me encontra em:
+	
+<a href="https://instagram.com/arthur_lopesr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+			<a href="https://www.linkedin.com/in/arthur-lopesr/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+----
        
 <div>
 <a href="https://github.com/arthurlopesr">
@@ -26,7 +31,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=arthurlopesr&label=Profile%20views&color=e6333f&style=flat" alt="arthurlopesr" /> </p>
  
 
-### Você me encontra em:
+
 
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
