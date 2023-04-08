@@ -29,5 +29,10 @@
 ----
 ##
 
+<div>
+<a href="https://github.com/arthurlopesr">
+  <img  align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=arthurlopesr&show_icons=true&theme=radical&locale=en&layout=compact" alt="arthurlopesr" />
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurlopesr&show_icons=true&theme=radical&border_radius=10&locale=en&count_private=true&include_all_commits=true" alt="arthurlopesr" />
+</div>
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
