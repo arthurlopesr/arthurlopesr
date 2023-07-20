@@ -3,7 +3,7 @@
 
 - 🔥 Front End Developer
 - 🔭 I’m currently working at [TouchComp](https://touchcomp.com.br/)
-- 📚 Software Engineering Student
+- 📚 Software Engineer Student
 ---  
 
 
