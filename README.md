@@ -3,7 +3,7 @@
 
 - 🔥 Front End Developer
 - 🔭 I’m currently working at [TouchComp](https://touchcomp.com.br/)
-
+- 📚 Software Engineering Student
 ---  
 
 
@@ -11,10 +11,8 @@
 		<div>
 			<h3>Skills </h3>
 <div style="display: flex; gap: 8px; align-items: center; flex-wrap:wrap;">
-  <img alt="Arthur-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img alt="Arthur-ts" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img alt="Arthur-React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img alt="Arthur-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="Arthur-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img alt="Arthur-Docker" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
   <img alt="Arthur-figma" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
