@@ -18,7 +18,7 @@
 ![Next.js](https://img.shields.io/badge/-Next.JS-333333?style=flat&logo=next.js)
 ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=E535AB)
 
-<h3>⚙️ &nbsp;Back-end e banco de dados:</h3>
+<h3>⚙️ &nbsp;Back-end and Database:</h3>
 
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs&logoColor=E535AB)
@@ -29,13 +29,13 @@
 
 ----  
 ### You can find me at:
+
+<p align="center">
+<a href="https://instagram.com/arthur_lopesr"  target="_blank"><img src="https://img.shields.io/badge/-@arthurlopesr_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/felipe-rocha-034871172"><img src="https://img.shields.io/badge/-Arthur%20Lopes-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:arthurlopr12@gmail.com"><img src="https://img.shields.io/badge/-arthurlopr12@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 	
-<a href="https://instagram.com/arthur_lopesr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/arthur-lopesr/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-<a href = "mailto:arthurlopr12@gmail.com">
-<img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-	
-##
+----  
 
 <div style="display: flex" align="center">
 <a href="https://github.com/arthurlopesr">
