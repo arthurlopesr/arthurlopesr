@@ -1,26 +1,34 @@
 ## Hi, I'm Arthur Lopes
 
 
-- 🔥 Front End Developer
+- 🔥 Full Stack Developer
 - 🔭 I’m currently working at [TouchComp](https://touchcomp.com.br/)
-- 📚 Software Engineer Student
+- 📚 Software Engineer and fullStack technologies Student
 ---  
 
 
-<div style="display: flex">
-		<div>
-			<h3>Skills </h3>
-<div style="display: flex; gap: 8px; align-items: center; flex-wrap:wrap;">
-  <img alt="Arthur-ts" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img alt="Arthur-React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img alt="Arthur-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img alt="Arthur-Docker" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
-  <img alt="Arthur-figma" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
-</div>
-		</div>
+<h2> 🛠 &nbsp;Tech Stack</h2>
+<h3>💻 &nbsp;Front-end:</h3>
+
+![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.JS-333333?style=flat&logo=next.js)
+![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=E535AB)
+
+<h3>⚙️ &nbsp;Back-end e banco de dados:</h3>
+
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs&logoColor=E535AB)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=E535AB)
 
 ----  
-### Você me encontra em:
+### You can find me at:
 	
 <a href="https://instagram.com/arthur_lopesr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/arthur-lopesr/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
