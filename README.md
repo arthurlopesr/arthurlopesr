@@ -32,7 +32,7 @@
 
 <p align="center">
 <a href="https://instagram.com/arthur_lopesr"  target="_blank"><img src="https://img.shields.io/badge/-@arthurlopesr_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/felipe-rocha-034871172"><img src="https://img.shields.io/badge/-Arthur%20Lopes-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/arthur-lopesr/"><img src="https://img.shields.io/badge/-Arthur%20Lopes-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:arthurlopr12@gmail.com"><img src="https://img.shields.io/badge/-arthurlopr12@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 	
 ----  
