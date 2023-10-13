@@ -27,7 +27,7 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=E535AB)
-![AWS](https://img.shields.io/badge/-Aws-333333?style=flat&logo=aws&logoColor=E535AB)
+![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon&logoColor=FF9900)
 
 ----  
 ### You can find me at:
