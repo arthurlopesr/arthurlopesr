@@ -2,7 +2,7 @@
 
 
 - 🔥 Full Stack Developer
-- 🔭 I’m currently working at [TouchComp](https://touchcomp.com.br/)
+- 🔭 I’m currently working at [A3Data](https://a3data.com.br/)
 - 📚 Software Engineer and Full Stack technologies Student
 - 💡 My [portfolio](http://arthurlopes.dev)
 ---  
