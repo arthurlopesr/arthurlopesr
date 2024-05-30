@@ -2,7 +2,7 @@
 
 
 - 🔥 Full Stack Developer
-- 🔭 I’m currently working at [dtidigital](https://www.dtidigital.com.br/)
+- 🔭 I’m currently working at [dti digital](https://www.dtidigital.com.br/)
 - 📚 Software Engineer and Full Stack technologies Student
 - 💡 My [portfolio](http://arthurlopes.dev)
 ---  
