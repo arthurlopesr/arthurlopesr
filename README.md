@@ -16,31 +16,31 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  title="Java"/>
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kafka" height="40" alt="apachekafka logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=jest" height="40" alt="jest logo"  />
+        <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" title="Java"/>
+        <img width="12" />
+        <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo" title="Spring"/>
+        <img width="12" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo" title="Terraform"/>
+        <img width="12" />
+        <img src="https://skillicons.dev/icons?i=kafka" height="40" alt="apachekafka logo" title="Apache Kafka"/>
+        <img width="12" />
+        <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" title="Docker"/>
+        <img width="12" />
+        <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo" title="PostgreSQL"/>
+        <img width="12" />
+        <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo" title="MySQL"/>
+        <img width="12" />
+        <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo" title="MongoDB"/>
+        <img width="12" />
+        <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo" title="Amazon Web Services"/>
+        <img width="12" />
+        <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo" title="Node.js"/>
+        <img width="12" />
+        <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" title="React"/>
+        <img width="12" />
+        <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo" title="TypeScript"/>
+        <img width="12" />
+        <img src="https://skillicons.dev/icons?i=jest" height="40" alt="jest logo" title="Jest"/>
 </div>
 
 ###
