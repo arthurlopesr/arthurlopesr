@@ -1,47 +1,69 @@
-## Hi, I'm Arthur Lopes
+<h2 align="left">About Me</h2>
 
+###
 
 - 🔥 Full Stack Developer
 - 🔭 I’m currently working at [dti digital](https://www.dtidigital.com.br/)
 - 📚 Software Engineer and Backend/DevOps technologies Student
 - 💡 My [portfolio](http://arthurlopes.dev)
----  
 
+<p align="left"></p>
 
-<h2> 🛠 &nbsp;Tech Stack</h2>
+###
 
-<h3>⚙️ &nbsp;Back-end and Database:</h3>
+<h2 align="left">Techs</h2>
 
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java)
-![Spring Boot](https://img.shields.io/badge/-Spring-333333?style=flat&logo=spring)
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs&logoColor=E535AB)
-![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=E535AB)
-![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon&logoColor=FF9900)
+###
 
-<h3>💻 &nbsp;Front-end:</h3>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=kafka" height="40" alt="apachekafka logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=jest" height="40" alt="jest logo"  />
+</div>
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.JS-333333?style=flat&logo=next.js)
-![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=E535AB)
+###
 
-----  
-### You can find me at:
+<h2 align="left">You can find me at:</h2>
 
-<p align="center">
-<a href="https://instagram.com/arthur_lopesr"  target="_blank"><img src="https://img.shields.io/badge/-@arthurlopesr_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/arthur-lopesr/"><img src="https://img.shields.io/badge/-Arthur%20Lopes-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:arthurlopr12@gmail.com"><img src="https://img.shields.io/badge/-arthurlopr12@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-	
-----  
+###
 
-<div style="display: flex" align="center">
-<a href="https://github.com/arthurlopesr">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs?username=arthurlopesr&show_icons=true&theme=radical&locale=en&layout=compact" alt="arthurlopesr" />
-<img height="140em" src="https://github-readme-stats.vercel.app/api?username=arthurlopesr&show_icons=true&theme=radical&border_radius=10&locale=en&count_private=true&include_all_commits=true" alt="arthurlopesr" />
+<div align="left">
+  <a href="https://www.linkedin.com/in/arthur-lopesr/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="arthurlopr12@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
+
+###
+
+<h2 align="left">Stats</h2>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arthurlopesr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arthurlopesr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arthurlopesr&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
