@@ -2,7 +2,7 @@
 
 ###
 
-- 🔥 Full Stack Developer
+- 🔥 Backend Developer
 - 🔭 I’m currently working at [dti digital](https://www.dtidigital.com.br/) as a Backend Developer
 - 📚 Software Engineer and Backend/DevOps technologies Student
 - 💡 My [portfolio](http://arthurlopes.dev)
